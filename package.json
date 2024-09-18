@@ -1,0 +1,15 @@
+{
+  "name": "pressf14interval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pressF14Interval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree-fork/nut-js": "^4.2.2"
+  }
+}
