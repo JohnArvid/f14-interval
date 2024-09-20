@@ -8,7 +8,7 @@
     "start": "node pressF14Interval.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "JohnArvid",
   "license": "ISC",
   "dependencies": {
     "@nut-tree-fork/nut-js": "^4.2.2"
