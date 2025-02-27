@@ -1,7 +1,7 @@
 // Importera nut.js
 const { keyboard, Key } = require('@nut-tree-fork/nut-js');
 
-let stopTime = '16:43:00';
+let stopTime = '16:36:00';
 
 // Simulera tryck på F14
 async function pressF14() {
